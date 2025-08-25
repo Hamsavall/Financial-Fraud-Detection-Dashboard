@@ -275,6 +275,14 @@ The dashboard consists of five main sections:
 
 ---
 
+### 👤 Author :
+
+V HAMSA VALLI - https://github.com/Hamsavall
+
+### 👥 Contributor :
+
+JAMI SRAVYA - https://github.com/SravyaAUCSE
+
 ### 📄 License
 
 This project is for **educational and demonstration purposes**. Ensure compliance with regulations before production use.
