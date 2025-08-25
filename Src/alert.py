@@ -307,3 +307,4 @@ class FraudAlertSystem:
         """
         
         return self.send_email_alert(subject, body) 
+
