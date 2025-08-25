@@ -1,0 +1,4 @@
+model,auc
+logistic_regression,0.9600050286328622
+random_forest,0.9671664954330477
+xgboost,0.9709704827921052
