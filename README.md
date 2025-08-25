@@ -36,27 +36,16 @@
 
 ```
 financial_fraud_detection/
-
 │
-
 ├── data/                         # Sample or uploaded transaction data
-
 ├── models/                       # Trained ML models saved as .pkl
-
 ├── src/
-
 │   ├── preprocess.py             # ETL, feature engineering
-
 │   ├── train_models.py           # ML training logic
-
 │   ├── detect_fraud.py           # Inference and scoring logic
-
 │   └── alert.py                  # Email alert module
-
 ├── streamlit_app.py              # Streamlit dashboard UI
-
 ├── requirements.txt              # All required libraries
-
 └── README.md                     # Project overview and usage
 ```
 
